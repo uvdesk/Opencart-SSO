@@ -14,6 +14,7 @@ Manual Installation:
     - OpenCart_2.0.x.x-to-2.1.x.x folder for Opencart Version 2.0.x.x to 2.1.x.x
     - OpenCart_2.2.x.x folder for Opencart Version 2.2.x.x
     - OpenCart_2.3.x.x folder for Opencart Version 2.3.x.x
+    - OpenCart_3.x.x.x folder for Opencart Version 3.x.x.x
 
 3) Upload both admin and catalog directories into your Opencart's root directory.
 
